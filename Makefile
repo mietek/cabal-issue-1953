@@ -1,3 +1,5 @@
+all: test
+
 .PHONY: dep depclean configure build test clean
 
 dep:
